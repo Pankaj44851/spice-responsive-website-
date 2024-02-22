@@ -71,9 +71,18 @@
         margin: auto;
         padding: 10px 0px;
     }
+    .fourth-card{
+        margin: 25px 0px;
+    }
     .fourth-card h6 {
         font-size: 25px;
         margin: 20px 15px;
+    }
+    .fifth{
+        margin: 20px 0px;
+    }
+    .fourth-card{
+        height: 360px;
     }
 
     .fifth h3 {
