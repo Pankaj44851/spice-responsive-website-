@@ -22,7 +22,7 @@
 
 /*first page secton */
 .first {
-    background-image: url(f-img.jpg);
+    background-image: url(images/f-img.jpg);
     background-size: cover;
     height: 90vh;
 }
